@@ -1,0 +1,19 @@
+{
+  "name": "vector-tile-viewer",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@mapbox/vector-tile": "^2.0.4",
+    "json-formatter-js": "^2.5.23",
+    "pbf": "^4.0.1"
+  },
+  "devDependencies": {
+    "vite": "^5.0.8"
+  }
+}
