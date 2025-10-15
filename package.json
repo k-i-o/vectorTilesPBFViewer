@@ -1,8 +1,13 @@
 {
   "name": "vector-tile-viewer",
-  "private": true,
+  "private": false,
   "version": "1.0.0",
   "type": "module",
+  "homepage": "https://k-i-o.github.io/vectorTilesPBFViewer/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/k-i-o/vectorTilesPBFViewer.git"
+  },
   "scripts": {
     "dev": "vite",
     "build": "vite build",
